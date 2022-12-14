@@ -30,6 +30,9 @@ $ npm or yarn run start:dev
 
 # production mode
 $ npm or yarn run start:prod
+
+# prisma migrate
+$ npx prisma migrate dev
 ```
 
 ## Test
